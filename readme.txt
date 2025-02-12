@@ -1,3 +1,3 @@
 bonjour à tous
 je m'appelle Conceptia
-je suis en deuxième année d'informatique
+je suis en deuxième année d'informatique à ESGIS
